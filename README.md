@@ -1,1 +1,1 @@
-Proyectos para aprender kivy
+Proyectos autodidactas para aprender kivy
